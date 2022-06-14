@@ -1,0 +1,11 @@
+This is my work for a 22 web development [bootcamp](https://www.youtube.com/watch?v=ZxKM3DCV2kE&list=WL&index=30&t=29s) from youtube covering 
+- HTML
+- CSS
+- Javscript
+- React
+- TailWind CSS
+- React Query
+- CI/CD with github actions
+- Bash
+- Node.js
+- Next.js
