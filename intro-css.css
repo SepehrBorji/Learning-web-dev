@@ -1,0 +1,38 @@
+.center-text {
+    text-align: center;
+    width: auto;
+}
+.green {
+    background-color: lime;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.center {
+    width: 30%;
+    margin: auto;
+    display: block;
+    float: center;
+}
+.gray {
+    background-color: gray;
+}
+.light-gray {
+    background-color: lightgray;
+}
+.small-box {
+    width: 40%;
+    height: 0;
+    padding-bottom: 40%;
+    display: inline-block;
+    margin: 0;
+}
+.row {
+    display: block;
+}
