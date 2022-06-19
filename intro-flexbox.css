@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+}
+
+.newnewlayout {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.first {
+    flex-shrink: 0;
+}
+
+.second {
+    flex-shrink: 1;
+}
+
+.third {
+    flex-shrink: 2;
+}
+
+.newnewlayout div {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    flex-basis: 100vw;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.parent {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 40vh;
+}
+
+.child {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    vertical-align: middle;
+}
+
+.child h3 {
+    text-align: center;
+    margin-top: 40%;
+}
