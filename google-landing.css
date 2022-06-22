@@ -124,3 +124,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#apple-logo {
+    width: 60px;
+    height: 60px;
+}
